@@ -13,6 +13,8 @@ The shiny application created will generate interactively a Normal Distribution 
 
 The link to the shiny application is: https://monterojl.shinyapps.io/plot_normal_dist/
 
+R code is available in github: https://github.com/monterojl/shiny_app
+
 ui.R file
 ========================================================
 The ui file will show the following input controls:
