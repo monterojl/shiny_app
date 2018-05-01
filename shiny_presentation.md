@@ -11,7 +11,7 @@ This presentation will show the details of the Shiny application created for the
 
 The shiny application created will generate interactively a Normal Distribution where some parameters can be set and see the changes in the distribution.
 
-The link to the shiny application is: https://monterojl.shinyapps.io/plot_normal_dist/
+The link to the shiny application is: https://monterojl.shinyapps.io/my_shiny_app/
 
 R code is available in github: https://github.com/monterojl/shiny_app
 
